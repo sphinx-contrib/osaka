@@ -11,10 +11,10 @@ This module converts standard Japanese sentence into Osaka dialect. Osaka is one
 requires = ['Sphinx>=0.6']
 
 setup(
-    name='osaka',
+    name='sphinxcontrib-osaka',
     version='0.1',
     url='http://bitbucket.org/birkenfeld/sphinx-contrib',
-    download_url='http://pypi.python.org/pypi/osaka',
+    download_url='http://pypi.python.org/pypi/sphinxcontrib-osaka',
     license='BSD',
     author='SHIBUKAWA Yoshiki',
     author_email='yoshiki at shibu.jp',
